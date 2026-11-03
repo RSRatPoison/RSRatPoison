@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=RSRatPoison&label=Profile%20views&color=17A31B&style=flat-square" alt="Profile views"/>
+<img src="assets/Poison_%28item%29.png" alt="Poison bottle" height="40" align="middle"/>&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=RSRatPoison&label=Profile%20views&color=17A31B&style=flat-square" alt="Profile views" align="middle"/>&nbsp;&nbsp;<img src="assets/Poison_%28item%29.png" alt="Poison bottle" height="40" align="middle"/>
 
 </div>
 
