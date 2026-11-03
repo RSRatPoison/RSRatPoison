@@ -47,20 +47,20 @@ RhetPoison.new() |> RhetPoison.work()
 
 <br/>
 
-## About me
+## <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Transgender_Pride_flag.svg" alt="Transgender pride flag" height="18"/> About me
 
-- Working from **the 5th floor** (no, I won't tell you which building)
-- Using my *"totally real"* brain interface technology to play **RuneScape**
+- Transgender hacker girl, and proud of it
+- Working from **the 5th floor** (no, I won't tell you where)
 - Writing **Elixir exclusively**. No side languages, no regrets
-- Big fan of the BEAM: lightweight processes, fault tolerance, and **"let it crash"** as a life philosophy
-- Pattern matching is my love language
-- 🏳️‍⚧️ Transgender hacker girl, and proud of it
+- Using my most of the company's technology to play **RuneScape**
+- Big fan of the OSRS: retro, buggy and a humerous attempt of an MMO
+- Brewing up trouble is my love language
 
 <br/>
 
-## Currently
+## ⚔️ Currently
 
-- Building things in **Elixir** (obviously)
+- Building things in **Elixir** (obviously.. What else?)
 - Learning more about OTP design, LiveView, and the wonderful weirdness of the BEAM
 - Grinding RuneScape skills, mind-powered and fully legitimate
 - Ask me about: Elixir, pattern matching, concurrency, hacking, RuneScape
@@ -68,24 +68,62 @@ RhetPoison.new() |> RhetPoison.work()
 
 <br/>
 
-## Stats
+<h2 data-importer="text">My Languages:</h2>
+
+###
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" width="50px" />
+
+</div>
+
+###
+
+<h2 data-importer="text">My Frameworks:</h2>
+
+###
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original.svg" width="50px"/>
+</div>
+
+<h2 data-importer="text">My Tools:</h2>
+
+###
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50px"/>
+</div>
+
+###
+
+
+## 📊 Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RSRatPoison&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages"/>
+![](https://github-readme-stats.shion.dev/api?username=RSRatPoison&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-<img src="https://streak-stats.demolab.com?user=RSRatPoison&theme=radical&hide_border=true" alt="GitHub streak"/>
+![](https://streak-stats.demolab.com/?user=RSRatPoison&theme=chartreuse-dark&hide_border=false)<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RSRatPoison&theme=react-dark&hide_border=true&area=true&color=b084f5&line=4B275F&point=ffffff" alt="Activity graph" width="100%"/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=RSRatPoison&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
 <br/>
 
-## Let's connect
+## 📲 Let's connect
 
-- The best way to reach me is through GitHub: open an issue or discussion on one of my repos
-- Everything else? **Wouldn't you like to know~**
+- The best way to reach me is through GitHub: open an issue or discussion on one of my repos-
+- Everything else then send me a message on RuneScape and I might respond if I'm not AFK.
+- My RuneScape name? **Wouldn't you like to know~**
 
 <br/>
 
