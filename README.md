@@ -47,7 +47,7 @@ RhetPoison.new() |> RhetPoison.work()
 
 <br/>
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Transgender_Pride_flag.svg" alt="Transgender pride flag" height="18"/> About me
+## <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Transgender_Pride_flag.svg" alt="Transgender pride flag" height="18" style="pointer-events: none;"/> About me
 
 - Transgender hacker girl, and proud of it
 - Working from **the 5th floor** (no, I won't tell you where)
