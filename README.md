@@ -60,7 +60,7 @@ RhetPoison.new() |> RhetPoison.work()
 - Transgender hacker girl, and proud of it
 - Working from **the 5th floor** (no, I won't tell what building)
 - Writing **Elixir exclusively**. No side languages, no regrets
-- Using my most of the company's technology to play **RuneScape**
+- Using my most of the company's technology to play <b><a href="https://play.runescape.com/">RuneScape</a></b><br>
 - Big fan of the OSRS: retro, buggy and a humerous attempt of an MMO
 - Brewing up trouble is my love language
 
