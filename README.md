@@ -51,9 +51,10 @@ RhetPoison.new() |> RhetPoison.work()
 
 <a href="https://mylearning.stem.org.uk/badges/badge.php?hash=70edb4362c38592ebee1f8de65d67df0510638ff">
   <img src="/assets/badges/Encouraging_Girls_into_GCSE_Computer_Science.png"
-       alt="My Encouraging Girls into GCSE Computer Science Badge"
-       width="200"
-       align="right">
+    alt="My Encouraging Girls into GCSE Computer Science Badge"
+    title="Encouraging Girls into GCSE Computer Science"
+    width="200"
+    align="right">
 </a>
 
 - Transgender hacker girl, and proud of it
