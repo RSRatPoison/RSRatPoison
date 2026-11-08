@@ -50,9 +50,9 @@ RhetPoison.new() |> RhetPoison.work()
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Transgender_Pride_flag.svg" alt="Transgender pride flag" height="18" style="pointer-events: none;"/> About me
 
 <a href="https://mylearning.stem.org.uk/badges/badge.php?hash=70edb4362c38592ebee1f8de65d67df0510638ff">
-  <img src="path/to/badge.png"
-       alt="My Badge"
-       width="150"
+  <img src="/assets/badges/Encouraging_Girls_into_GCSE_Computer_Science.png"
+       alt="My Encouraging Girls into GCSE Computer Science Badge"
+       width="200"
        align="right">
 </a>
 
