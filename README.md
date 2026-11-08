@@ -49,6 +49,13 @@ RhetPoison.new() |> RhetPoison.work()
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Transgender_Pride_flag.svg" alt="Transgender pride flag" height="18" style="pointer-events: none;"/> About me
 
+<a href="https://mylearning.stem.org.uk/badges/badge.php?hash=70edb4362c38592ebee1f8de65d67df0510638ff">
+  <img src="path/to/badge.png"
+       alt="My Badge"
+       width="150"
+       align="right">
+</a>
+
 - Transgender hacker girl, and proud of it
 - Working from **the 5th floor** (no, I won't tell you where)
 - Writing **Elixir exclusively**. No side languages, no regrets
