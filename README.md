@@ -57,7 +57,7 @@ RhetPoison.new() |> RhetPoison.work()
     align="right">
 </a>
 
-- Transgender hacker girl, and proud of it
+- Transgender hacker girl, and **proud** of it
 - Working from **the 5th floor** (no, I won't tell what building)
 - Writing **Elixir exclusively**. No side languages, no regrets
 - Using my most of the company's technology to play <b><a href="https://play.runescape.com/">RuneScape</a></b><br>
@@ -69,10 +69,10 @@ RhetPoison.new() |> RhetPoison.work()
 ## ⚔️ Currently
 
 - Building things in **Elixir** (obviously.. What else?)
-- Learning more about OTP design, LiveView, and the wonderful weirdness of the BEAM
-- Grinding RuneScape skills, mind-powered and fully legitimate
-- Ask me about: Elixir, pattern matching, concurrency, hacking, RuneScape
-- Goal: ship cool Elixir projects and keep that contribution graph purple
+- **Learning** more about OTP design, LiveView, and the wonderful weirdness of the BEAM
+- Grinding RuneScape skills, mind-powered and **fully legitimate**
+- Ask me about: **Elixir**, pattern matching, concurrency, hacking, RuneScape
+- **Goal:** ship cool Elixir projects and keep that contribution graph purple
 
 <br/>
 
