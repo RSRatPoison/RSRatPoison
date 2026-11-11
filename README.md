@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="assets/Poison_%28item%29.png" alt="Poison bottle" height="40" align="middle"/>&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=RSRatPoison&label=Profile%20views&color=17A31B&style=flat-square" alt="Profile views" align="middle"/>&nbsp;&nbsp;<img src="assets/Poison_%28item%29.png" alt="Poison bottle" height="40" align="middle"/>
+<img src="assets/Poison_%28item%29.png" alt="Poison bottle" height="40" align="middle"/>&nbsp;&nbsp;<img src="https://count.getloli.com/@VIisitor%20Counter?theme=gelbooru-h&padding=10&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="Profile views" align="middle"/>&nbsp;&nbsp;<img src="assets/Poison_%28item%29.png" alt="Poison bottle" height="40" align="middle"/>
 
 </div>
 
