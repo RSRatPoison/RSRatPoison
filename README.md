@@ -81,11 +81,6 @@ RhetPoison.new() |> RhetPoison.work()
 
 ###
 
-
-<img align="right" height="180"
-      src="https://github-readme-stats.shion.dev/api/top-langs/?username=RSRatPoison&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-      alt="languages graph" />
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" width="50px" />
 
