@@ -123,7 +123,9 @@ RhetPoison.new() |> RhetPoison.work()
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=RSRatPoison&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<div align="center">
+  <img src="https://github-metrics-incog.vercel.app/api?username=RSRatPoison&theme=github_dark&profile=false" alt="GitHub Metrics" />
+</div>
 
 ![](https://streak-stats.demolab.com/?user=RSRatPoison&theme=chartreuse-dark&hide_border=false)<br/>
 
