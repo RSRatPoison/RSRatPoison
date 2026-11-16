@@ -122,10 +122,10 @@ RhetPoison.new() |> RhetPoison.work()
 ## 📊 Stats
 
 <div align="center">
-
-<div align="center">
   <img src="https://github-metrics-incog.vercel.app/api?username=RSRatPoison&theme=github_dark&profile=false" alt="GitHub Metrics" />
 </div>
+
+<div align="center">
 
 ![](https://streak-stats.demolab.com/?user=RSRatPoison&theme=chartreuse-dark&hide_border=false)<br/>
 
