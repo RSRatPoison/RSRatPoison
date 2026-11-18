@@ -79,12 +79,11 @@ RhetPoison.new() |> RhetPoison.work()
 
 ## 🃏 Highlighted Project
 
-<a href="https://github.com/RSRatPoison/RSRatPoison/blob/main/assets/sinful-oracle-social-Animated-preview.gif">
-  <img width="100%" src="https://raw.githubusercontent.com/RSRatPoison/RSRatPoison/main/assets/sinful-oracle-social-Animated-preview.gif" alt="GIF"/>
-</a>
+<p align="center">
+  <img src="https://github.com/RSRatPoison/RSRatPoison/raw/main/assets/sinful-oracle-social-Animated-preview.gif" width="600" alt="Sinful Oracle preview">
+</p>
 
 <br/>
-
 
 <h2 data-importer="text">My Languages:</h2>
 
