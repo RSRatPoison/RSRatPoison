@@ -77,7 +77,7 @@ RhetPoison.new() |> RhetPoison.work()
 
 <br/>
 
-## 🃏 Highlighted Project
+## 🃏 Highlighted Project:
 
 <p align="center">
   <a href="https://github.com/RSRatPoison/sinful_oracle">
