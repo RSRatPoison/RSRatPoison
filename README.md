@@ -2,11 +2,11 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B7A12,50:17A31B,100:1DB922&height=230&section=header&text=Rhet%20Poison&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Brewing%20poisons%20with%20Elixir&descSize=24&descAlignY=58" alt="Rhet Poison - Brewing poisons with Elixir" width="100%"/>
-
+<img src="assets/Poison_%28item%29.png" alt="Poison bottle" height="40" align="middle"/>
 <a href="https://github.com/RSRatPoison">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=17A31B&center=true&vCenter=true&width=720&lines=Hey+there%2C+I'm+Rhet.;Just+a+hacker+girl+working+on+the+5th+floor.;I+have+RuneScape+on+my+mind.;I+write+Elixir.+Only+Elixir.+Always+Elixir." alt="Typing SVG" />
 </a>
-
+<img src="assets/Poison_%28item%29.png" alt="Poison bottle" height="40" align="middle"/>
 <br/>
 
 <img src="assets/Poison_%28item%29.png" alt="Poison bottle" height="40" align="middle"/>&nbsp;&nbsp;<img src="https://count.getloli.com/@VIisitor%20Counter?theme=gelbooru-h&padding=10&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="Profile views" align="middle"/>&nbsp;&nbsp;<img src="assets/Poison_%28item%29.png" alt="Poison bottle" height="40" align="middle"/>
